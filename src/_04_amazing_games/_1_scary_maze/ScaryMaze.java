@@ -50,7 +50,7 @@ public class ScaryMaze extends JPanel implements Runnable, MouseMotionListener {
 		
 	}
 
-	@Override
+
 	public void mouseMoved(MouseEvent e) {
 		int mouseX = e.getX();
 		int mouseY = e.getY();
